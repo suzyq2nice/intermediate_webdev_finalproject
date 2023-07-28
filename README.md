@@ -1,2 +1,2 @@
-# intermediate_webdev_finalproject
+# coding-project-template
 intermediate_webdev_finalproject
